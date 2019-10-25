@@ -1,0 +1,8 @@
+prefix=/home/phamvandan/catkin_ws/devel
+
+Name: test2
+Description: Description of test2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phamvandan/catkin_ws/devel/lib 
+Requires: 

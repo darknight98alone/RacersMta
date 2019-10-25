@@ -1,0 +1,2 @@
+lane_detect:test:test2:video_stream
+-DCATKIN_DEVEL_PREFIX=/home/phamvandan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/phamvandan/catkin_ws/install -G Unix Makefiles
